@@ -1,3 +1,4 @@
-[submodule "email-autodiscover"]
+[submodule "gronke"]
 	path = email-autodiscover
 	url = https://github.com/gronke/email-autodiscover.git
+	branch = master
