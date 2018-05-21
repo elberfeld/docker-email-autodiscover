@@ -8,12 +8,12 @@
     "imap": {
       "host": "{{IMAP_HOST}}",
       "port": {{IMAP_PORT}},
-      "socket": "SSL"
+      "socket": "{{IMAP_SOCKET}}"
     },
     "smtp": {
       "host": "{{SMTP_HOST}}",
       "port": {{SMTP_PORT}},
-      "socket": "SSL"
+      "socket": "{{SMTP_SOCKET}}"
     },
     "domain_required": true
   },
